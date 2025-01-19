@@ -112,9 +112,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "옴뭉 - ommung"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
+  bio: "개발을 시작한 뉴비의 모험기"
   location: "Somewhere"
   email:
   links:
